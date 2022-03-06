@@ -1,0 +1,14 @@
+.button {
+	background-color: #80475E;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	font-family: 'Barlow', sans-serif;
+	font-size: 15px;
+}
+
+#btn {
+	color: white;
+}

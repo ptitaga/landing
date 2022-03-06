@@ -1,0 +1,26 @@
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/card.css");
+
+h1 {
+	font-family: 'Noto Serif Display', serif;
+	font-size: 45px;
+}
+
+h2 {
+	font-family: 'Noto Serif Display', serif;
+	font-weight: bold;
+}
+
+h3 {
+	font-family: 'Barlow', sans-serif;
+}
+
+body {
+	font-family: 'Barlow', sans-serif;
+	font-size: 13px;
+	margin: 0px;
+	background-color: rgba(224, 210, 195, 0.3) ;
+}
